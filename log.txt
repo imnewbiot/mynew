@@ -1,0 +1,6 @@
+UserID: 5288062719 | Time: 2024-06-14 07:20:34.463301 | Command: /bgmi | Target: 20.204.189.186 | Port: 10466 | Time: 120
+Username: @KRONTEX
+Target: 20.204.189.186
+Port: 10466
+Time: 120
+
